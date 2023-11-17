@@ -44,3 +44,11 @@ body {
   background-color: #d9afd9;
   background-image: linear-gradient(0deg, #f5ecf5 0%, #97d9e1 100%);
 }
+.cart {
+  display: flex;
+  height: 328px;
+  padding: 0px 48px 0px 334px;
+  justify-content: flex-end;
+  align-items: center;
+  align-self: stretch;
+}
